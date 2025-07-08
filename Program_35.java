@@ -2,7 +2,7 @@ public class Program_35 {
      public static void main(String[] args){
 
         // 2D array = An array where each element is an array
-        //                    Useful for storing a matrix of data
+        //Useful for storing a matrix of data
 
         //-----------------------
         //   EXAMPLE 1

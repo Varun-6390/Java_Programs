@@ -1,4 +1,4 @@
-// Compound interest calculator
+  // Compound interest calculator
 
 import java.util.Scanner;
 

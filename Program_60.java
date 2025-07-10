@@ -1,4 +1,4 @@
-// How to PLAY AUDIO with Java (.wav, .au, .aiff)
+  // How to PLAY AUDIO with Java (.wav, .au, .aiff)
 
 import java.io.File;
 import java.io.FileNotFoundException;

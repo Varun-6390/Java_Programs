@@ -1,11 +1,11 @@
 // Java Logical Operator
 
-public class Program_20 {
-    public static void main(String[] args) {
-
         // && = AND
         // || = OR
         // !  = NOT
+
+public class Program_20 {
+    public static void main(String[] args) {
 
         double temp = 35;
         boolean isSunny = true;

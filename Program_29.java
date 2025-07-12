@@ -42,7 +42,7 @@ public class Program_29 {
     }
 
     static void showBalance(double balance) {
-        System.out.println("***************");
+        System.out.println("****************");
         System.out.printf("$%.2f\n", balance);
     }
 

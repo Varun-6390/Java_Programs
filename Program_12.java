@@ -1,4 +1,4 @@
-  // Nested if statement
+    // Nested if statement
 
 public class Program_12 {
     public static void main(String[] args) {

@@ -1,9 +1,9 @@
-public class Program_41 {
-    public static void main(String[] args) {
-
         // overloaded constructors = Allow a class to have multiple constructors
         // with different parameter lists.
         // Enable objects to be initialized in various ways.
+public class Program_41 {
+    public static void main(String[] args) {
+
 
         User user1 = new User("Severus");
         User user2 = new User("Hagrid", "buckbeak@aol.com");

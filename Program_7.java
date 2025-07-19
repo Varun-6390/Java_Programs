@@ -1,4 +1,5 @@
-    // if statement = performs a block of code if its condition is true
+// if statement = performs a block of code if its condition is true
+
 public class Program_7 {
     public static void main(String[] args) {
         boolean isStudent = true;

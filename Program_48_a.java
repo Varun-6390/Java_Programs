@@ -4,6 +4,7 @@
         // Abstract classes CAN'T be instantiated directly.
         // Can contain 'abstract' methods (which must be implemented)
         // Can contain 'concrete' methods (which are inherited)
+
 public class Program_48_a {
     public static void main(String[] args) {
 

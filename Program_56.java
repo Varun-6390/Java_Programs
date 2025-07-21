@@ -1,5 +1,6 @@
         // ArrayList = A resizeable array that stores objects (autoboxing)
-        //                     Arrays are fixed in size, but ArrayLists can change
+        // Arrays are fixed in size, but ArrayLists can change
+
 import java.util.ArrayList;
 import java.util.Collections;
 

@@ -1,5 +1,7 @@
 // Variable scope
 
+
+
 public class Program_28 {
       static int x = 3; //CLASS
 

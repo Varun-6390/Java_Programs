@@ -1,6 +1,7 @@
 // Java Substring
-        // .substring() = A method used to extract a portion of a string
-        // .substring(start, end)
+
+// .substring() = A method used to extract a portion of a string
+// .substring(start, end)
 
 import java.util.Scanner;
 

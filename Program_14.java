@@ -1,12 +1,12 @@
 // Java Substring
+        // .substring() = A method used to extract a portion of a string
+        // .substring(start, end)
 
 import java.util.Scanner;
 
 public class Program_14 {
     public static void main(String[] args) {
 
-        // .substring() = A method used to extract a portion of a string
-        // .substring(start, end)
 
         Scanner scanner = new Scanner(System.in);
 

@@ -1,5 +1,6 @@
         // Runtime polymorphism = When the method that gets executed is decided
-        //                                               at runtime based on the actual type of the object.
+        // at runtime based on the actual type of the object.
+
 import java.util.Scanner;
 
 public class Program_51_a {

@@ -1,7 +1,5 @@
 // Strings in java
 
-
-
 public class Program_13 {
     public static void main(String[] args) {
 

@@ -1,5 +1,8 @@
 // Java enhanced switch case
 
+
+
+
 import java.util.Scanner;
 
 public class Program_18 {

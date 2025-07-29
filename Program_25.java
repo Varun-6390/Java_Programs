@@ -1,5 +1,6 @@
-        // nested loop = A loop inside another loop
-        // Used often with matrices or DS&A
+// nested loop = A loop inside another loop
+// Used often with matrices or DS&A
+
 import java.util.Scanner;
 
 public class Program_25 {

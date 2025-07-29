@@ -1,10 +1,10 @@
+        // nested loop = A loop inside another loop
+        // Used often with matrices or DS&A
 import java.util.Scanner;
 
 public class Program_25 {
     public static void main(String[] args){
 
-        // nested loop = A loop inside another loop
-        //                          Used often with matrices or DS&A
 
         Scanner scanner = new Scanner(System.in);
 

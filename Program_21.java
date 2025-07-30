@@ -1,5 +1,7 @@
 // while loop in java
 
+
+
 import java.util.Scanner;
 
 public class Program_21 {

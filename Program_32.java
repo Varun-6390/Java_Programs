@@ -1,7 +1,5 @@
 // User input in array
 
-
-
 import java.util.Scanner;
 
 public class Program_32 {
@@ -29,4 +27,5 @@ public class Program_32 {
         scanner.close();
     }
 }
+
 

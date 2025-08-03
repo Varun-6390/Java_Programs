@@ -3,8 +3,6 @@
 import java.util.Random;
 import java.util.Scanner;
 
-
-
 public class Program_22 {
     public static void main(String[] args) {
 
@@ -39,4 +37,5 @@ public class Program_22 {
         scanner.close();
     }
 }
+
 

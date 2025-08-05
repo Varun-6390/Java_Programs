@@ -1,7 +1,5 @@
 // Searching in array
 
-
-
 import java.util.Scanner;
 
 public class Program_33 {
@@ -31,4 +29,5 @@ public class Program_33 {
         scanner.close();
     }
 }
+
 

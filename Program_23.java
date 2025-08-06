@@ -1,7 +1,5 @@
 // for loop in java
 
-
-
 import java.util.Scanner;
 
 public class Program_23 {
@@ -24,4 +22,5 @@ public class Program_23 {
     }
     
 }
+
 

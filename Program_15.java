@@ -1,7 +1,5 @@
 // Weight Converter
 
-
-
 import java.util.Scanner;
 
 public class Program_15 {
@@ -37,4 +35,5 @@ public class Program_15 {
         scanner.close();
     }
 }
+
 

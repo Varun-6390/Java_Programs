@@ -1,3 +1,5 @@
+
+
 // MAD LIBS GAME
 
 import java.util.Scanner;
@@ -31,4 +33,5 @@ public class Program_4 {
 
         scanner.close();
     }
+
 }

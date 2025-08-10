@@ -1,6 +1,5 @@
 // Random number generation
 
-
 import java.util.Random;
 
 public class Program_8 {
@@ -25,4 +24,5 @@ public class Program_8 {
         }
     }
 }
+
 

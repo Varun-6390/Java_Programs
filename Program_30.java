@@ -1,10 +1,11 @@
+        // JAVA DICE ROLLER PROGRAM
+
 import java.util.Random;
 import java.util.Scanner;
 
 public class Program_30 {
       public static void main(String[] args) {
 
-        // JAVA DICE ROLLER PROGRAM
 
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
@@ -91,3 +92,4 @@ public class Program_30 {
         }
     }
 }
+

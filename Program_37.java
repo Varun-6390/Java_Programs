@@ -1,10 +1,10 @@
+// ROCK PAPER SCISSORS GAME
+
 import java.util.Scanner;
 import java.util.Random;
 
 public class Program_37 {
      public static void main(String[] args){
-
-        // ROCK PAPER SCISSORS GAME
 
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
@@ -48,3 +48,4 @@ public class Program_37 {
         scanner.close();
     }
 }
+

@@ -1,13 +1,9 @@
 // JAVA BANKING PROGRAM
 
 import java.util.Scanner;
-
 public class Program_29 {
     static Scanner scanner = new Scanner(System.in);
-
     public static void main(String[] args) {
-
-
         double balance = 0;
         boolean isRunning = true;
         int choice;
@@ -49,7 +45,6 @@ public class Program_29 {
     static double deposit() {
 
         double amount;
-
         System.out.print("Enter an amount to be deposited: ");
         amount = scanner.nextDouble();
 

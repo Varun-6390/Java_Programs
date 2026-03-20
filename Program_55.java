@@ -5,8 +5,6 @@
 
 public class Program_55 {
      public static void main(String[] args) {
-
-
         // Autoboxing
         Integer a = 123;
         Double b = 3.14;

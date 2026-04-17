@@ -41,7 +41,6 @@ public class Program_40 {
         this.gpa = gpa;
         this.isEnrolled = true;
     }
-
     void study(){
         System.out.println(this.name + " is studying");
     }

@@ -1,6 +1,5 @@
 public class Program_40 {
     public static void main(String[] args) {
-
         // constructor = A special method to initialize objects
         //                         You can pass arguments to a constructor
         //                         and set up initial values

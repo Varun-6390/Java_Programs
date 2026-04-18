@@ -1,6 +1,5 @@
 public class Program_26 {
      public static void main(String[] args){
-
         // method =  a block of reusable code that is executed when called ()
 
         happyBirthday("Albus", 80);

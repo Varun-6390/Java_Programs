@@ -1,11 +1,9 @@
 // JAVA DICE ROLLER PROGRAM
-
 import java.util.Random;
 import java.util.Scanner;
 
 public class Program_30 {
       public static void main(String[] args) {
-
 
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
@@ -16,8 +14,7 @@ public class Program_30 {
         numOfDice = scanner.nextInt();
 
         if(numOfDice > 0){
-
-            for(int i = 0; i < numOfDice; i++){
+           for(int i = 0; i < numOfDice; i++){
                 int roll = random.nextInt(1, 7);
                 printDie(roll);
                 System.out.println("You rolled: " + roll);
@@ -92,4 +89,3 @@ public class Program_30 {
         }
     }
 }
-

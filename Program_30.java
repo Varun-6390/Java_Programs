@@ -1,4 +1,4 @@
-        // JAVA DICE ROLLER PROGRAM
+// JAVA DICE ROLLER PROGRAM
 
 import java.util.Random;
 import java.util.Scanner;
